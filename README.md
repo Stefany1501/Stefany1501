@@ -70,18 +70,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stefany1501&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" alt="Estatísticas do GitHub" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefany1501&layout=compact&theme=tokyonight&border_radius=8" alt="Linguagens Mais Usadas" height="155" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stefany1501&theme=tokyonight&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
-
-<div align="center">
-  <p>✨ <i>"Transformando dados em soluções eficientes e centradas no impacto real."</i></p>
-</div>
